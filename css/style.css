@@ -35,9 +35,6 @@ nav {
 /*
     Carousel
 */
-.carousel {
-  margin-bottom: 2rem;
-}
 .carousel h2 {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
@@ -132,6 +129,7 @@ nav {
 .slider img {
     max-width:250px;
     height: auto;
+    padding: 15px;
 }
 
 /*

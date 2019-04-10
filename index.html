@@ -107,7 +107,7 @@
         <div class="marketing py-5">
             <div class="container">
                 <div class="row">
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-3">
                         <div class="circle">
                             <img src="images/color.jpg" alt="">
                         </div>
@@ -117,7 +117,7 @@
                         </p>
                         <p><a class="btn btn-primary" href="#" role="button">Examples</a></p>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-3">
                         <div class="circle">
                             <img src="images/signs.jpg" alt="">
                         </div>
@@ -127,7 +127,7 @@
                         </p>
                         <p><a class="btn btn-primary" href="#" role="button">Materials</a></p>
                     </div>
-                    <div class="col-md-4">
+                    <div class="col-md-4 mb-3">
                         <div class="circle">
                             <img src="images/signs.jpg" alt="">
                         </div>
@@ -419,7 +419,16 @@
                 infinite: true,
                 dots: true,
                 arrows: false,
-                speed: 400
+                speed: 400,
+                responsive: [
+                    {
+                        breakpoint: 600,
+                        settings: {
+                            slidesToShow: 2,
+                            dots: false,
+                        }
+                    }
+                ]
             });
         });
     </script>

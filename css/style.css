@@ -25,23 +25,28 @@ h2, h3, h4 {
     Navigation
 */
 nav {
-    /*font-family: 'Roboto Condensed', sans-serif;*/
     font-weight: 600;
     letter-spacing: .1rem;
     text-decoration: none;
     text-transform: uppercase;
 }
+.navbar .navbar-collapse {
+  text-align: center;
+}
 
 /*
     Carousel
 */
+.carousel {
+  background-color: black;
+}
 .carousel h2 {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
-    font-size: 70px;
+    font-size: 4em;
     text-transform: uppercase;
 }
-.carousel-caption {
+/*.carousel-caption {
   bottom: 3rem;
   z-index: 10;
 }
@@ -54,7 +59,11 @@ nav {
   left: 0;
   max-width: 100%;
   height: 32rem;
-  /*width: auto;*/
+}*/
+@media (max-width: 40em) {
+  .carousel h2 {
+    font-size: 3em;
+  }
 }
 @media (min-width: 40em) {
   .carousel-caption p {

@@ -218,3 +218,10 @@ nav .navbar-nav .nav-item a:hover {
     height:700px;
     width:100%;
 }
+
+/*
+  Services  
+*/
+.image-grid img{
+    margin-bottom: 1.5rem !important;
+}

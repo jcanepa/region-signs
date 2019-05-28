@@ -55,6 +55,9 @@ nav .navbar-nav .nav-item a:hover {
     font-size: 4rem;
     text-transform: uppercase;
 }
+.carousel-item {
+    max-height: 400px;
+}
 
 @media (max-width: 40em) {
   .carousel h2 {
@@ -76,8 +79,8 @@ nav .navbar-nav .nav-item a:hover {
     text-align: center;
 }
 .marketing .circle{
-    width: 150px;
-    height: 150px;
+    width: 180px;
+    height: 180px;
     position: relative;
     overflow: hidden;
     border-radius: 50%;
@@ -90,9 +93,9 @@ nav .navbar-nav .nav-item a:hover {
     height: 100%;
     width: auto;
 }
-.marketing .circle img:nth-child(-n+3) {
+/*.marketing .circle img:nth-child(-n+3) {
     height: 115%;
-}
+}*/
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;

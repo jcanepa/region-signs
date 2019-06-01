@@ -198,3 +198,10 @@ nav .navbar-nav .nav-item a:hover {
 .image-grid img{
     margin-bottom: 1.5rem !important;
 }
+
+footer .social-icons svg{
+    font-size: 1.5em;
+}
+footer .social-icons a:hover svg{
+    color: #fff;
+}

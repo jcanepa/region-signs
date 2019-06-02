@@ -59,12 +59,12 @@ nav .navbar-nav .nav-item a:hover {
     max-height: 400px;
 }
 
-@media (max-width: 40em) {
+@media (max-width: 45em) {
   .carousel h2 {
-    font-size: 3rem;
+    font-size: 1.8rem;
   }
 }
-@media (min-width: 40em) {
+@media (min-width: 45em) {
   .carousel-caption p {
     margin-bottom: 1.25rem;
     font-size: 1.25rem;
@@ -93,9 +93,6 @@ nav .navbar-nav .nav-item a:hover {
     height: 100%;
     width: auto;
 }
-/*.marketing .circle img:nth-child(-n+3) {
-    height: 115%;
-}*/
 .marketing .col-lg-4 {
   margin-bottom: 1.5rem;
   text-align: center;
@@ -110,6 +107,10 @@ nav .navbar-nav .nav-item a:hover {
 .marketing svg {
     height: 3em;
     width: 3em !important;
+}
+
+@media (min-width: 45em) {
+
 }
 
 /*

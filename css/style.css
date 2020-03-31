@@ -117,7 +117,7 @@ nav .navbar-nav .nav-item a:hover {
     About
 */
 .about {
-    background-image: url('../images/shop.jpg');
+    background-image: url('../images/shop.webp');
     background-size: cover;
 }
 .about .copy {
@@ -156,7 +156,7 @@ nav .navbar-nav .nav-item a:hover {
     Testimonials
 */
 .testimonials {
-    background: url('../images/testimonials.png');
+    background: url('../images/testimonials.webp');
     background-size: cover;
     background-position: center center;
 }

@@ -26,6 +26,9 @@ h2, h3, h4 {
 .bg-dark {
     background-color: #273b4e !important;
 }
+.bg-none {
+    background-color: transparent;
+}
 
 /*
     Navigation
@@ -45,6 +48,10 @@ nav .navbar-nav .nav-item a {
 nav .navbar-nav .nav-item a:hover {
     color: #b19774;
 }
+.navbar-brand span {
+    font-size: 0.5rem;
+    letter-spacing: 1px;
+}
 
 /*
     Carousel
@@ -57,6 +64,9 @@ nav .navbar-nav .nav-item a:hover {
 }
 .carousel-item {
     max-height: 400px;
+}
+.carousel-item picture {
+    width: inherit;
 }
 
 @media (max-width: 45em) {
@@ -117,7 +127,9 @@ nav .navbar-nav .nav-item a:hover {
     About
 */
 .about {
-    background-image: url('../images/shop.webp');
+    background-image:
+        url('../images/shop.webp'),
+        url('../images/standard-image-format/shop.jpg');
     background-size: cover;
 }
 .about .copy {
@@ -145,6 +157,11 @@ nav .navbar-nav .nav-item a:hover {
 /*
     Gallery
 */
+.photo-gallery-pages {
+    max-height: 42rem;
+    overflow: scroll;
+}
+
 .gallery img {
     width: 100%;
     height: auto;

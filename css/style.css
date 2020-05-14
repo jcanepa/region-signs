@@ -158,8 +158,8 @@ nav .navbar-nav .nav-item a:hover {
     Gallery
 */
 .photo-gallery-pages {
-    max-height: 42rem;
-    overflow: scroll;
+    /*max-height: 42rem;
+    overflow: scroll;*/
 }
 
 .gallery img {
@@ -167,6 +167,13 @@ nav .navbar-nav .nav-item a:hover {
     height: auto;
     height: 200px;
     object-fit: cover;
+}
+
+.gallery button {
+    font-weight: 600;
+    letter-spacing: .1rem;
+    background-color: #a8bcce;
+    border-color: #a8bcce;
 }
 
 /* 

@@ -180,7 +180,7 @@ nav .navbar-nav .nav-item a:hover {
     Testimonials
 */
 .testimonials {
-    background: url('../images/testimonials.webp');
+    background: url('../images/standard-image-format/testimonials.jpg');
     background-size: cover;
     background-position: center center;
 }

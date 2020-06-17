@@ -552,12 +552,12 @@
                     <div class="col-md-4 copy">
                         <h2>Painted Projects</h2>
                         <p class="lead">
-                            Designed to your needs, installed to your specifications.
+                            Casey allows us to offer a wide range of capabilities and options for our clients. If you're interested in a project, <a href="https://www.caseykingart.com/paint">visit his page</a> for more information.
                         </p>
                         <p>
                             <a href="tel:1-219-473-1616">Call us</a> today to commission a painting.
                         </p>
-                        <h6>Specializing in hand-painted:</h6>
+                        <h6>Specializing in hand-painted</h6>
                         <ul>
                             <li>Murals</li>
                             <li>Signage</li>

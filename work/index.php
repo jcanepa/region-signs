@@ -1,10 +1,10 @@
 <?php require __DIR__.'/../partials/header.php' ?>
     <main>
-        <section class="gallery bg-light py-5" id="work">
+        <section class="gallery bg-light py-5 mt-3-md" id="work">
             <div class="container">
                 <div class="row">
                     <div class="col text-center">
-                        <h2>Our Work</h2>
+                        <h1>Our Work</h1>
                         <p class="lead mb-5">
                             We specialize in custom signage and offer a wide range of capabilities. Get inspired by browsing some examples of past work.
                         </p>

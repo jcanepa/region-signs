@@ -891,9 +891,8 @@
       gtag('config', 'UA-70431347-3');
     </script>
     <script>
-        /* Slick slider */
         $(document).ready(function(){
-
+            /* Slick slider */
             $('.slider').slick({
                 autoplay: true,
                 slidesToShow: 3,

@@ -187,9 +187,9 @@
         </section>
 
         <!-- About Region Signs Inc. -->
-        <section class="about py-5" id="about">
+        <section class="about py-5-md" id="about">
             <div class="container">
-                <div class="row my-5 p-5">
+                <div class="row my-5-md p-5">
                     <div class="col my-5 copy">
                         <h3 class="pb-3">Region Signs Inc.</h3>  
                         <p class="lead">
@@ -881,7 +881,8 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
     <script src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous" defer></script>
     <script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js" type="text/javascript"></script>
-    <script src="js/lazysizes.min.js" async=""></script>
+    <script src="/js/lazysizes.min.js" async=""></script>
+    <script src="/js/scripts.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-70431347-3"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -909,18 +910,6 @@
                         }
                     }
                 ]
-            });
-
-            /* Clicking links closes navbar on mobile */
-            $(function(){
-                var navbar = $(".navbar-collapse");
-                navbar.on(
-                    "click", "a:not([data-toggle])",
-                    null,
-                    function () {
-                        navbar.collapse('hide');
-                    }
-                );
             });
         });
     </script>

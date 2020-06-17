@@ -128,6 +128,20 @@ nav .navbar-nav .nav-item a:hover {
     border-radius: 5px;
 }
 
+@media(max-width: 600px) {
+    .about {
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+    .about .row {
+        padding: 1rem !important;
+    }
+    .about .copy {
+        padding: 1rem;
+        margin-bottom: 0 !important;
+    }
+}
+
 /*
     Brands
 */

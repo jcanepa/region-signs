@@ -194,6 +194,11 @@ nav .navbar-nav .nav-item a:hover {
 .testimonials blockquote footer {
     color: #adb3b9;
 }
+@media(max-width: 600px) {
+    .testimonials blockquote {
+        font-size: 1.7rem;
+    }
+}
 
 /* 
     Map

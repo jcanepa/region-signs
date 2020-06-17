@@ -17,12 +17,6 @@ h2, h3, h4 {
     background-color: #273b4e;
     border-color: #273b4e;
 }
-.btn.btn-secondary {
-    color: #273b4e;
-    background-color: #fff;
-    border-color: #fff;
-    font-weight: 700;
-}
 .bg-dark {
     background-color: #273b4e !important;
 }
@@ -119,10 +113,6 @@ nav .navbar-nav .nav-item a:hover {
     width: 3em !important;
 }
 
-@media (min-width: 45em) {
-
-}
-
 /*
     About
 */
@@ -157,11 +147,6 @@ nav .navbar-nav .nav-item a:hover {
 /*
     Gallery
 */
-.photo-gallery-pages {
-    /*max-height: 42rem;
-    overflow: scroll;*/
-}
-
 .gallery img {
     width: 100%;
     height: auto;
@@ -172,8 +157,6 @@ nav .navbar-nav .nav-item a:hover {
 .gallery button {
     font-weight: 600;
     letter-spacing: .1rem;
-    background-color: #a8bcce;
-    border-color: #a8bcce;
 }
 
 /* 

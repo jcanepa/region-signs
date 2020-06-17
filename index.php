@@ -548,6 +548,43 @@
                         </ul>
                     </div>
                 </div>
+                <div class="row py-5 service">
+                    <div class="col-md-8">
+                        <div class="row image-grid">
+                            <div class="col-6">
+                                <img data-src="images/services/installation/window.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                            <div class="col-6">
+                                <img data-src="images/services/installation/brick.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                            <div class="col-6">
+                                <img data-src="images/services/installation/church.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                            <div class="col-6">
+                                <img data-src="images/services/installation/unilever.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 copy">
+                        <h2>Painted Projects</h2>
+                        <p class="lead">
+                            Designed to your needs, installed to your specifications.
+                        </p>
+                        <p>
+                            Need a hand getting noticed? From start to finish, we get the job done. With our team of trained professionals, we offer local delivery and installation.
+                        </p>
+                        <p>
+                            <a href="tel:1-219-473-1616">Call us</a> today to get your signs installed and start getting noticed now.
+                        </p>
+                        <h6>Specializing in hand-painted:</h6>
+                        <ul>
+                            <li>Murals</li>
+                            <li>Signage</li>
+                            <li>Sculptures</li>
+                            <li>Fabrication</li>
+                        </ul>
+                    </div>
+                </div>
             </div>
         </section>
 
@@ -601,8 +638,6 @@
                 </div>
 
                 <div class="photo-gallery-pages">
-
-                    <!-- Gallery 1 -->
                     <div class="row photo-gallery gallery-1">
                         <div class="col-md-4">
                             <div class="card mb-4 shadow-sm">
@@ -664,350 +699,10 @@
                                 <img data-src="images/gallery/cleveland.jpg" class="lazyload" alt="Instalation of custom signage">
                             </div>
                         </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/paradise.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/mascot-atm.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/corporate-signage.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/custom-printing.jpg" class="lazyload" alt="Custom printing of ">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/custom-signs-wraps-bows.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/hand-lettered-signs.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/hand-lettered-signs-wide.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/hard-hat-zone.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/industrial-logo-signs.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <button class="btn btn-block py-3 mt-3 text-uppercase text-light LoadGalleryImages" data-gallery="2">
-                            Load more images
-                        </button>
-                    </div>                        
-
-                    <!-- Gallery 2 -->
-                    <div class="row photo-gallery gallery-2" style="display: none;">
-                        <button class="btn btn-block py-3 mb-3 text-uppercase text-light LoadGalleryImages" data-gallery="1">
-                            Load previous images
-                        </button>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/isg-building-signage.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/isg-factory-signage.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/isg.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/isg-dementional-letters.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/michoacana.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/municipal-sewer.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/parking-garage.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/party-cutouts.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/pipe-labels.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/popa.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/print-volleyball.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/promotional-items.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/promotional-tradeshow-backdrop.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/recycling.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/region.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/roadside-signage.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/whiting-lubia.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/sports-banners-pennants.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/storefront-graphics.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/truck-business-design.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/truck-custom-design.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <button class="btn btn-block py-3 mt-3 text-uppercase text-light LoadGalleryImages" data-gallery="3">
-                            Load more images
-                        </button>
-                    </div>
-
-                    <!-- Gallery 3 -->
-                    <div class="row photo-gallery gallery-3" style="display: none;">
-                        <button class="btn btn-block py-3 mb-3 text-uppercase text-light LoadGalleryImages" data-gallery="2">
-                            Load previous images
-                        </button>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/truck-custom-design-2.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/truck-graphics.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/truck-lettering.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/centier-car-graphics.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/store-signage.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/ultra.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/unilever.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/usa-flag.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/custom-sign-jobs.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/whiting-city-seal.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/safety-kleen.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/whiting-school.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/whiting-sign.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/whiting-theater.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/whiting-wayfinder.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/banner.png" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/business-signs.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/business-window-coffee.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/business-window-engineering.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/academic-signs.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/aframe-sign.jpg" class="lazyload" alt="Instalation of custom signage">
-                            </div>
-                        </div>
-                        <button class="btn btn-block py-3 mt-3 text-uppercase text-light LoadGalleryImages" data-gallery="4">
-                            Load more images
-                        </button>
-                    </div>
-
-                    <!-- Gallery 3 -->
-                    <div class="row photo-gallery gallery-4" style="display: none;">
-                        <button class="btn btn-block py-3 mb-3 text-uppercase text-light LoadGalleryImages" data-gallery="3">
-                            Load previous images
-                        </button>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/centier-stand.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/mill-safety-signs.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/floor-decal.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/nipsco-sign.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/winter-safety.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/life-jackets.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/open-issues-board.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/flexngate-info-station.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/hammond-parks.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/am-incidents.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/centier-construction.jpg" class="lazyload" alt="">
-                            </div>
-                        </div>
-                        <div class="col-md-4">
-                            <div class="card mb-4 shadow-sm">
-                                <img data-src="images/gallery/men-at-work.jpg" class="lazyload" alt="">
-                            </div>
+                        <div class="col-12">
+                            <a href="/work" class="btn btn-block btn-primary py-3 mb-3 text-uppercase text-light font-weight-bold">
+                                View More Images
+                            </a>
                         </div>
                     </div>
                 </div>
@@ -1216,17 +911,6 @@
                     }
                 ]
             });
-
-            /* Work gallery */
-            $('.LoadGalleryImages').click( function() {
-
-                var galleryPage = $(this).data('gallery');
-
-                $('.photo-gallery').hide(function() {
-                    $('.gallery-'+ galleryPage).show();
-                });
-            });
-
         });
     </script>
 </body>

@@ -2,21 +2,19 @@
 <html>
 <head>
     <title>Region Signs Inc.</title>
-
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" 
       content="Region Signs Inc is an independently owned sign shop producting high quality graphic printing, lettering and custom signs located in Northwest Indiana.">
 
+    <!-- Fonts & Styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,600&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap">
-    <!-- <link rel="stylesheet" href="https://cdn.rawgit.com/noelboss/featherlight/1.7.13/release/featherlight.min.css" type="text/css" /> -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <!-- Slick slider -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
 
-    <!-- Facebook Pixel Code -->
+    <!-- Facebook Pixel -->
     <script>
         !function(f,b,e,v,n,t,s)
         {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -33,7 +31,6 @@
         <img height="1" width="1" 
           src="https://www.facebook.com/tr?id=286405539386416&ev=PageView&noscript=1"/>
     </noscript>
-    <!-- End Facebook Pixel Code -->
 </head>
 <body>
     <header>

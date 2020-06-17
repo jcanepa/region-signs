@@ -283,7 +283,7 @@
                             We specialize in helping our customers get their message designed, produced and out in public. <a href="tel:1-219-473-1616">Give us a call</a> today to discuss all the custom printing options that we offer.
                         </p>
                         <div class="row">
-                            <div class="col-6">
+                            <div class="col-md-6">
                                 <h6>Services:</h6>
                                 <ul>
                                     <li>Full-color copies</li>
@@ -298,7 +298,7 @@
                                     <li>Wall Graphics</li>
                                 </ul>
                             </div>
-                            <div class="col-6">
+                            <div class="col-md-6">
                                 <h6>Materials:</h6>
                                 <ul>
                                     <li>Canvas</li>
@@ -549,32 +549,13 @@
                     </div>
                 </div>
                 <div class="row py-5 service">
-                    <div class="col-md-8">
-                        <div class="row image-grid">
-                            <div class="col-6">
-                                <img data-src="images/services/installation/window.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
-                            </div>
-                            <div class="col-6">
-                                <img data-src="images/services/installation/brick.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
-                            </div>
-                            <div class="col-6">
-                                <img data-src="images/services/installation/church.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
-                            </div>
-                            <div class="col-6">
-                                <img data-src="images/services/installation/unilever.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-md-4 copy">
                         <h2>Painted Projects</h2>
                         <p class="lead">
                             Designed to your needs, installed to your specifications.
                         </p>
                         <p>
-                            Need a hand getting noticed? From start to finish, we get the job done. With our team of trained professionals, we offer local delivery and installation.
-                        </p>
-                        <p>
-                            <a href="tel:1-219-473-1616">Call us</a> today to get your signs installed and start getting noticed now.
+                            <a href="tel:1-219-473-1616">Call us</a> today to commission a painting.
                         </p>
                         <h6>Specializing in hand-painted:</h6>
                         <ul>
@@ -583,6 +564,22 @@
                             <li>Sculptures</li>
                             <li>Fabrication</li>
                         </ul>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="row image-grid">
+                            <div class="col-6">
+                                <img data-src="images/standard-image-format/services/painting/barber.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                            <div class="col-6">
+                                <img data-src="images/standard-image-format/services/painting/beard.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                            <div class="col-6">
+                                <img data-src="images/standard-image-format/services/painting/owl.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                            <div class="col-6">
+                                <img data-src="images/standard-image-format/services/painting/signs.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>

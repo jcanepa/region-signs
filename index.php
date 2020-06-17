@@ -74,7 +74,7 @@
     </header>
     <main>
         <!-- Hero slider -->
-        <section class="hero" id="top">
+        <section class="hero d-none d-sm-block" id="top">
             <div class="carousel slide" id="heroCarousel" data-ride="carousel" data-interval="8000">
                 <ol class="carousel-indicators">
                     <li data-target="#heroCarousel" data-slide-to="0" class="active"></li>

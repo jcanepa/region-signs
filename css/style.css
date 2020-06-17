@@ -4,6 +4,9 @@
 html > * {
     font-family: 'Nunito', sans-serif;
 }
+body {
+    padding-top: 70px;
+}
 img {
     width: inherit;
     height: auto;
@@ -50,30 +53,27 @@ nav .navbar-nav .nav-item a:hover {
 /*
     Carousel
 */
-.carousel h2 {
-    font-family: 'Roboto Condensed', sans-serif;
-    font-weight: 700;
-    font-size: 4rem;
-    text-transform: uppercase;
-}
 .carousel-item {
     max-height: 400px;
 }
 .carousel-item picture {
     width: inherit;
 }
-
-@media (max-width: 45em) {
-  .carousel h2 {
-    font-size: 1.8rem;
-  }
+.carousel h2 {
+    font-size: 2rem;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    text-transform: uppercase;
 }
-@media (min-width: 45em) {
-  .carousel-caption p {
-    margin-bottom: 1.25rem;
-    font-size: 1.25rem;
-    line-height: 1.4;
-  }
+@media (min-width: 55em) {
+    .carousel h2 {
+        font-size: 4rem;
+    }
+    .carousel-caption p {
+        margin-bottom: 1.25rem;
+        font-size: 1.25rem;
+        line-height: 1.4;
+    }
 }
 
 /*

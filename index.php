@@ -42,14 +42,13 @@
                         WBE Certified - Indiana
                     </span>
                 </a>
-                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <div class="collapse navbar-collapse" id="navbarContent">
                     <ul class="navbar-nav ml-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="/services">
+                            <a class="nav-link" href="#services">
                                 Services
                             </a>
                         </li>
@@ -143,7 +142,7 @@
             </div>
         </section>
 
-        <!-- Calls to action -->
+        <!-- Three CTAs -->
         <section class="marketing py-5">
             <div class="container">
                 <div class="row">
@@ -205,7 +204,8 @@
             </div>
         </section>
 
-        <section class="services py-5 bg-light">
+        <!-- Services -->
+        <section class="services py-5 bg-light" id="services">
             <div class="container">
                 <div class="row py-5 service">
                     <div class="col-md-8">
@@ -910,6 +910,18 @@
                         }
                     }
                 ]
+            });
+
+            /* Clicking links closes navbar on mobile */
+            $(function(){
+                var navbar = $(".navbar-collapse");
+                navbar.on(
+                    "click", "a:not([data-toggle])",
+                    null,
+                    function () {
+                        navbar.collapse('hide');
+                    }
+                );
             });
         });
     </script>

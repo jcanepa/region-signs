@@ -32,7 +32,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+        <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
             <div class="container">
                 <a class="navbar-brand" href="#top">
                     <img src="/images/logo.png" alt="Region Signs Inc." style="height: 42px">

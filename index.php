@@ -290,7 +290,7 @@
                             No matter the project, we have your graphics solution.
                         </p>
                         <p>
-                            We specialize in helping our customers get their message designed, produced and out in public. <a href="tel:1-219-473-1616">Give us a call</a> today to discuss all the custom printing options that we offer.
+                            We specialize in helping our customers get their message designed, produced and out in public. <a href="tel:1-219-473-1616">Get a quote</a> today to discuss all the custom printing options that we offer.
                         </p>
                         <div class="row">
                             <div class="col-md-6">
@@ -313,7 +313,7 @@
                                 <ul>
                                     <li>Canvas</li>
                                     <li>Mesh Banner</li>
-                                    <li>Light to Heavy Display Flims</li>
+                                    <li>Light to Heavy Display Films</li>
                                     <li>Scrim Vinyl</li>
                                     <li>Perforated Window Vinyl</li>
                                     <li>White & Clear Cling-on</li>
@@ -365,7 +365,7 @@
                         <p class="lead">
                             High-quality interior and exterior materials, ready to supply all of your identification needs.
                         </p>
-                        <p>Looking for something specific for your project? <a href="tel:1-219-473-1616"><a href="tel:1-219-473-1616">Give us a call</a></a> to explore all of our lettering options.</p>
+                        <p>Looking for something specific for your project? <a href="tel:1-219-473-1616"><a href="tel:1-219-473-1616">Get a quote</a></a> to explore all of our lettering options.</p>
                         <h6>Products</h6>
                         <ul>
                             <li>Die-cut vinyl lettering</li>
@@ -399,12 +399,12 @@
                             Personalized for you.
                         </p>
                         <p>
-                            Make a lasting impression with our signature, personalized items. We provide a wide selection that will fulfill all of your marketing needs. Call to get a quote on your next projects customized products.
+                            Make a lasting impression with our signature, personalized items. We provide a wide selection that will fulfill all of your marketing needs. Contact us to get a quote on your next project's customized products.
                         </p>
                         <h6>Products:</h6>
                         <ul>
                             <li>Apparel/Wearables</li>
-                            <li>Tradeshow Materials</li>
+                            <li>Trade Show Materials</li>
                             <li>Table Covers</li>
                             <li>Bags/Totes/Luggage</li>
                             <li>Pens/Notepads</li>
@@ -413,7 +413,6 @@
                             <li>Magnets</li>
                             <li>Pins</li>
                             <li>Stickers</li>
-                            <li>Balloons/Inflatables</li>
                         </ul>
                     </div>
                     <div class="col-md-8">
@@ -450,7 +449,7 @@
                             We engrave on a variety of materials to suit your application.
                         </p>
                         <p>
-                            With our state-of-the-art equipment and our highly trained team, we have the capability of offering specialized engraving capabilities. We carry a long line of engraving products. <a href="tel:1-219-473-1616">Call us now</a> to get your custom project in process.
+                            With our state-of-the-art equipment and our highly trained team, we have the capability of offering a wide range of specialized engraving products. <a href="tel:1-219-473-1616">Contact us today</a> to get your custom project in process.
                         </p>
                         <h6>Services:</h6>
                         <ul>
@@ -469,23 +468,20 @@
                 <hr>
                 <div class="row py-5 service">
                     <div class="col-md-4 pl-3 copy">
-                        <h2>Design</h2>
+                        <h2>Creation & Design</h2>
                         <p class="lead">
-                            Looking for a logo or custom artwork?
+                            Looking for a custom creation?
                         </p>
                         <p>
-                            Using industry standard software, our graphic designers will work closely with you from concept to finished product on getting all your graphics needs met. <a href="tel:1-219-473-1616">Give us a call</a> today to get your project started.
+                            Using industry standard software, our graphic designer team will work with you on getting all your graphics needs met. <a href="tel:1-219-473-1616">Get a quote</a> today to get your project started.
                         </p>
                         <h6>Services:</h6>
                         <ul>
-                            <li>Logo & Brand Design</li>
-                            <li>Banner Artwork</li>
-                            <li>Signage Layouts</li>
+                            <li>Banner</li>
+                            <li>Signage</li>
                             <li>Vehicle & Window Graphics</li>
-                            <li>Label Design</li>
-                            <li>Corporate Marketing</li>
-                            <li>Brochures</li>
-                            <li>Menus</li>
+                            <li>Decals & Labels</li>
+                            <li>Marketing Materials</li>
                         </ul>
                         <h6>
                             Top Formats:
@@ -531,14 +527,14 @@
                             Need a hand getting noticed? From start to finish, we get the job done. With our team of trained professionals, we offer local delivery and installation.
                         </p>
                         <p>
-                            <a href="tel:1-219-473-1616">Call us</a> today to get your signs installed and start getting noticed now.
+                            <a href="tel:1-219-473-1616">Contact us</a> today to get your signs installed and start getting noticed now.
                         </p>
                         <h6>Products</h6>
                         <ul>
                             <li>Safety Signs</li>
                             <li>Hanging signs</li>
                             <li>Yard Signs</li>
-                            <li>Wayfinders</li>
+                            <li>Directional Signage</li>
                             <li>Signcades</li>
                             <li>Storefront Identification</li>
                             <li>Event Outings</li>
@@ -562,10 +558,10 @@
                     <div class="col-md-4 copy">
                         <h2>Painted Projects</h2>
                         <p class="lead">
-                            Casey allows us to offer a wide range of capabilities and options for our clients. If you're interested in a project, <a href="https://www.caseykingart.com/paint">visit his page</a> for more information.
+                            Casey King Art allows us to offer a wide range of capabilities and options for our clients. If you're interested in a project, <a href="https://www.caseykingart.com/paint">visit his page</a> for more information.
                         </p>
                         <p>
-                            <a href="tel:1-219-473-1616">Call us</a> today to commission a painting.
+                            <a href="tel:1-219-473-1616">Contact Casey</a> today to commission a painting.
                         </p>
                         <h6>Specializing in hand-painted</h6>
                         <ul>
@@ -639,7 +635,7 @@
                     <div class="col text-center">
                         <h2>Our Work</h2>
                         <p class="lead mb-5">
-                            We specialize in custom signage and offer a wide range of capabilities. Get inspired by browsing some examples of past work.
+                            We specialize in custom signage and offer a wide range of products. Get inspired by browsing some examples of past work.
                         </p>
                     </div>
                 </div>

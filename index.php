@@ -1,37 +1,47 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Region Signs Inc.</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" 
-      content="Region Signs Inc is an independently owned sign shop producting high quality graphic printing, lettering and custom signs located in Northwest Indiana.">
+    <meta name="description" content="Region Signs Inc is an independently owned sign shop producting high quality graphic printing, lettering and custom signs located in Northwest Indiana.">
 
     <!-- Fonts & Styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Nunito:200,600&display=swap">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick-theme.css" />
 
     <!-- Facebook Pixel -->
     <script>
-        !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window,document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '286405539386416'); 
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '286405539386416');
         fbq('track', 'PageView');
     </script>
     <noscript>
-        <img height="1" width="1" 
-          src="https://www.facebook.com/tr?id=286405539386416&ev=PageView&noscript=1"/>
+        <img height="1" width="1" src="https://www.facebook.com/tr?id=286405539386416&ev=PageView&noscript=1" />
     </noscript>
 </head>
+
 <body>
     <header>
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark fixed-top">
@@ -125,8 +135,8 @@
                         </picture>
                         <div class="container">
                             <div class="carousel-caption">
-                            <h2>Sign of the Times</h2>
-                            <p>Our 30+ years of industry experience is a sign of success. We're the certified team to fulfill your custom project needs.</p>
+                                <h2>Sign of the Times</h2>
+                                <p>Our 30+ years of industry experience is a sign of success. We're the certified team to fulfill your custom project needs.</p>
                             </div>
                         </div>
                     </div>
@@ -191,7 +201,7 @@
             <div class="container">
                 <div class="row my-5-md p-5">
                     <div class="col my-5 copy">
-                        <h3 class="pb-3">Region Signs Inc.</h3>  
+                        <h3 class="pb-3">Region Signs Inc.</h3>
                         <p class="lead">
                             Established in 2003 by <strong>Carolyn Sarvanidis</strong> and <strong>Tim King</strong>, Region Signs Inc. is a full-service sign and promotions company located conveniently in downtown Whiting, Indiana.
                         </p>
@@ -219,14 +229,14 @@
                             <div class="col-6">
                                 <picture class="w-100">
                                     <source data-srcset="images/services/signs/mascot.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/signs/mascot.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                    <img data-src="images/standard-image-format/services/signs/mascot.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <source data-srcset="images/services/signs/diamonds.webp" class=" lazyload"  type="image/webp">
-                                        <img data-src="images/standard-image-format/services/signs/diamonds.jpg" alt="Region Signs Custom Vehicle Lettering">
-                                <picture class="w-100">
+                                    <source data-srcset="images/services/signs/diamonds.webp" class=" lazyload" type="image/webp">
+                                    <img data-src="images/standard-image-format/services/signs/diamonds.jpg" alt="Region Signs Custom Vehicle Lettering">
+                                    <picture class="w-100">
                             </div>
                             <div class="col-6">
                                 <picture class="w-100">
@@ -239,7 +249,7 @@
                     <div class="col-md-4 copy" id="signs">
                         <h2>Signs</h2>
                         <p class="lead">
-                            We collaborate with you to turn your message into an effective signage solution. 
+                            We collaborate with you to turn your message into an effective signage solution.
                         </p>
                         <p>
                             We create beautiful, durable, signage that is perfect for product sales, special events, or promotions. <a href="tel:1-219-473-1616">Give us a call</a> today to discuss all of our custom signage capabilities.
@@ -252,7 +262,7 @@
                             <li>Safety Signs</li>
                             <li>Hanging signs</li>
                             <li>Yard Signs</li>
-                            <li>Wayfinders</li>
+                            <li>Directional Signage</li>
                             <li>Signcades</li>
                             <li>Storefront Identification</li>
                             <li>Event Outings</li>
@@ -420,17 +430,17 @@
                             <div class="col-6">
                                 <picture class="w-100">
                                     <source data-srcset="images/services/engraving/sign.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/engraving/sign.jpg" class="lazyload" alt="Printing posters for Perogi Fest">                                
+                                    <img data-src="images/standard-image-format/services/engraving/sign.jpg" class="lazyload" alt="Printing posters for Perogi Fest">
                                 </picture>
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/engraving/plaque.webp" class="lazyload" alt="Custom plaque design and installation">                                
+                                <img data-src="images/services/engraving/plaque.webp" class="lazyload" alt="Custom plaque design and installation">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/engraving/memorial.webp" class="lazyload" alt="Whiting Veteran's Memorial by Region Signs, Inc.">                                
+                                <img data-src="images/services/engraving/memorial.webp" class="lazyload" alt="Whiting Veteran's Memorial by Region Signs, Inc.">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/engraving/wayfinder.webp" class="lazyload" alt="Region Signs custom wayfinder engraving">                                
+                                <img data-src="images/services/engraving/wayfinder.webp" class="lazyload" alt="Region Signs custom wayfinder engraving">
                             </div>
                         </div>
                     </div>
@@ -440,7 +450,7 @@
                             We engrave on a variety of materials to suit your application.
                         </p>
                         <p>
-                           With our state-of-the-art equipment and our highly trained team, we have the capability of offering specialized engraving capabilities. We carry a long line of engraving products. <a href="tel:1-219-473-1616">Call us now</a> to get your custom project in process.
+                            With our state-of-the-art equipment and our highly trained team, we have the capability of offering specialized engraving capabilities. We carry a long line of engraving products. <a href="tel:1-219-473-1616">Call us now</a> to get your custom project in process.
                         </p>
                         <h6>Services:</h6>
                         <ul>
@@ -499,16 +509,16 @@
                     <div class="col-md-8">
                         <div class="row image-grid">
                             <div class="col-6">
-                                <img data-src="images/services/installation/window.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/services/installation/window.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/installation/brick.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/services/installation/brick.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/installation/church.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/services/installation/church.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/installation/unilever.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/services/installation/unilever.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                         </div>
                     </div>
@@ -568,16 +578,16 @@
                     <div class="col-md-8">
                         <div class="row image-grid">
                             <div class="col-6">
-                                <img data-src="images/standard-image-format/services/painting/barber.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/standard-image-format/services/painting/barber.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/standard-image-format/services/painting/beard.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/standard-image-format/services/painting/beard.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/standard-image-format/services/painting/owl.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/standard-image-format/services/painting/owl.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/standard-image-format/services/painting/signs.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">                                
+                                <img data-src="images/standard-image-format/services/painting/signs.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                             </div>
                         </div>
                     </div>
@@ -609,13 +619,13 @@
                             <img data-src="images/standard-image-format/brands/logo-citgo.png" class="mx-auto lazyload" alt="Citgo Logo" style="max-width: 120px;">
                         </div>
                         <div>
-                            <img data-src="images/standard-image-format/brands/logo-intek.png" class="mx-auto lazyload" alt="Intek Logo" >
+                            <img data-src="images/standard-image-format/brands/logo-intek.png" class="mx-auto lazyload" alt="Intek Logo">
                         </div>
                         <div>
                             <img data-src="images/standard-image-format/brands/logo-union-pacific.png" class="mx-auto lazyload" alt="Union Pacific Logo" style="max-width: 150px;">
                         </div>
                         <div>
-                            <img data-src="images/standard-image-format/brands/logo-voest-alpine.png" class="mx-auto lazyload" alt="Voest Alpine Logo" >
+                            <img data-src="images/standard-image-format/brands/logo-voest-alpine.png" class="mx-auto lazyload" alt="Voest Alpine Logo">
                         </div>
                     </div>
                 </div>
@@ -796,13 +806,7 @@
             </div>
             <div class="mapouter">
                 <div class="gmap_canvas">
-                    <iframe width="100%" height="600" 
-                      id="gmap_canvas" 
-                      src="https://maps.google.com/maps?q=region%20signs&t=&z=13&ie=UTF8&iwloc=&output=embed" 
-                      frameborder="0" 
-                      scrolling="no" 
-                      marginheight="0" 
-                      marginwidth="0"></iframe>
+                    <iframe width="100%" height="600" id="gmap_canvas" src="https://maps.google.com/maps?q=region%20signs&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
                 </div>
             </div>
         </section>
@@ -882,14 +886,17 @@
     <script src="/js/scripts.js"></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-70431347-3"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
+        window.dataLayer = window.dataLayer || [];
 
-      gtag('config', 'UA-70431347-3');
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-70431347-3');
     </script>
     <script>
-        $(document).ready(function(){
+        $(document).ready(function() {
             /* Slick slider */
             $('.slider').slick({
                 autoplay: true,
@@ -898,17 +905,16 @@
                 dots: true,
                 arrows: false,
                 speed: 800,
-                responsive: [
-                    {
-                        breakpoint: 600,
-                        settings: {
-                            slidesToShow: 2,
-                            dots: false,
-                        }
+                responsive: [{
+                    breakpoint: 600,
+                    settings: {
+                        slidesToShow: 2,
+                        dots: false,
                     }
-                ]
+                }]
             });
         });
     </script>
 </body>
+
 </html>

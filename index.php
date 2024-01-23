@@ -290,7 +290,7 @@
                             No matter the project, we have your graphics solution.
                         </p>
                         <p>
-                            We specialize in helping our customers get their message designed, produced and out in public. <a href="tel:1-219-473-1616">Get a quote</a> today to discuss all the custom printing options that we offer.
+                            We specialize in helping our customers get their message designed, produced and out in public. <a href="/#contact">Get a quote</a> today to discuss all the custom printing options that we offer.
                         </p>
                         <div class="row">
                             <div class="col-md-6">

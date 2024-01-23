@@ -252,7 +252,7 @@
                             We collaborate with you to turn your message into an effective signage solution.
                         </p>
                         <p>
-                            We create beautiful, durable, signage that is perfect for product sales, special events, or promotions. <a href="tel:1-219-473-1616">Give us a call</a> today to discuss all of our custom signage capabilities.
+                            We create beautiful, durable, signage that is perfect for product sales, special events, or promotions. <a href="/#contact">Give us a call</a> today to discuss all of our custom signage capabilities.
                         </p>
                         <p>
                             View our line of <a href="http://regionsignsinc.com/pdf/OHSA-Approved.pdf">OHSA Approved signs</a>.
@@ -365,7 +365,7 @@
                         <p class="lead">
                             High-quality interior and exterior materials, ready to supply all of your identification needs.
                         </p>
-                        <p>Looking for something specific for your project? <a href="tel:1-219-473-1616"><a href="tel:1-219-473-1616">Get a quote</a></a> to explore all of our lettering options.</p>
+                        <p>Looking for something specific for your project? <a href="/#contact">Get a quote</a>to explore all of our lettering options.</p>
                         <h6>Products</h6>
                         <ul>
                             <li>Die-cut vinyl lettering</li>
@@ -449,7 +449,7 @@
                             We engrave on a variety of materials to suit your application.
                         </p>
                         <p>
-                            With our state-of-the-art equipment and our highly trained team, we have the capability of offering a wide range of specialized engraving products. <a href="tel:1-219-473-1616">Contact us today</a> to get your custom project in process.
+                            With our state-of-the-art equipment and our highly trained team, we have the capability of offering a wide range of specialized engraving products. <a href="/#contact">Contact us today</a> to get your custom project in process.
                         </p>
                         <h6>Services:</h6>
                         <ul>
@@ -473,7 +473,7 @@
                             Looking for a custom creation?
                         </p>
                         <p>
-                            Using industry standard software, our graphic designer team will work with you on getting all your graphics needs met. <a href="tel:1-219-473-1616">Get a quote</a> today to get your project started.
+                            Using industry standard software, our graphic designer team will work with you on getting all your graphics needs met. <a href="/#contact">Get a quote</a> today to get your project started.
                         </p>
                         <h6>Services:</h6>
                         <ul>
@@ -527,7 +527,7 @@
                             Need a hand getting noticed? From start to finish, we get the job done. With our team of trained professionals, we offer local delivery and installation.
                         </p>
                         <p>
-                            <a href="tel:1-219-473-1616">Contact us</a> today to get your signs installed and start getting noticed now.
+                            <a href="/#contact">Contact us</a> today to get your signs installed and start getting noticed now.
                         </p>
                         <h6>Products</h6>
                         <ul>
@@ -561,7 +561,7 @@
                             Casey King Art allows us to offer a wide range of capabilities and options for our clients. If you're interested in a project, <a href="https://www.caseykingart.com/paint">visit his page</a> for more information.
                         </p>
                         <p>
-                            <a href="tel:1-219-473-1616">Contact Casey</a> today to commission a painting.
+                            <a href=" https://www.caseykingart.com/contact">Contact Casey</a> today to commission a painting.
                         </p>
                         <h6>Specializing in hand-painted</h6>
                         <ul>

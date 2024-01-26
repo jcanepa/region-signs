@@ -254,9 +254,7 @@
                         <p>
                             We create beautiful, durable, signage that is perfect for product sales, special events, or promotions. <a href="/#contact">Give us a call</a> today to discuss all of our custom signage capabilities.
                         </p>
-                        <p>
-                            View our line of <a href="http://regionsignsinc.com/pdf/OHSA-Approved.pdf">OHSA Approved signs</a>.
-                        </p>
+                        <p>We provide OSHA approved signs</p>
                         <h6>Products</h6>
                         <ul>
                             <li>Safety Signs</li>

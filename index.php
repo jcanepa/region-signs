@@ -426,12 +426,12 @@
                         <div class="row image-grid">
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <source data-srcset="images/services/engraving/sign.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/engraving/sign.jpg" class="lazyload" alt="Printing posters for Perogi Fest">
+                                    <source data-srcset="/Users/NicoleWilmoth/code/region-signs/images/services/engraving/IMG_8233.HEIC" class="lazyload" type="image/heic">
+                                    <img data-src="images/standard-image-format/services/engraving/IMG_8233.jpg" class="lazyload" alt="Trophy Engraving">
                                 </picture>
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/engraving/plaque.webp" class="lazyload" alt="Custom plaque design and installation">
+                                <img data-src="images/standard-image-format/services/engraving/IMG_8266.jpg" class="lazyload" alt="Custom plaque design and installation">
                             </div>
                             <div class="col-6">
                                 <img data-src="images/services/engraving/memorial.webp" class="lazyload" alt="Whiting Veteran's Memorial by Region Signs, Inc.">

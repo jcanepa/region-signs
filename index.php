@@ -494,9 +494,37 @@
                             <span class="badge badge-pill badge-secondary">.TIFF</span>
                         </div>
                     </div>
+
                     <div class="col-md-8">
-                        <img data-src="images/services/design.webp" class="lazyload" alt="Region Signs graphic design and printing.">
+                        <div class="row image-grid">
+                            <div class="col-6">
+                                <picture class="w-100">
+                                    <source data-srcset="images/services/creationanddesign/WG-P-FIELDS.heic" class="lazyload" type="image/heic">
+                                    <img data-src="images/standard-image-format/creationanddesign/WG-P-FIELDS.jpg" class="lazyload" alt="Region Signs Custom Creative and Design">
+                                </picture>
+                            </div>
+                            <div class="col-6">
+                                <picture class="w-100">
+                                    <source data-srcset="images/services/creationanddesign/IMG_8208.heic" class="lazyload" type="image/heic">
+                                    <img data-src="images/standard-image-format/creationanddesign/IMG_8208.jpg" class="lazyload" alt="Region Signs Custom Creation and Design">
+                                </picture>
+                            </div>
+                            <div class="col-6">
+                                <picture class="w-100">
+                                    <img data-src="images/standard-image-format/creationanddesign/IMG_8211.jpg" class="lazyload" alt="Region Signs Custom Creation and Design">
+                                </picture>
+                            </div>
+                            <div class="col-6">
+                                <picture class="w-100">
+                                    <source data-srcset="images/services/creationanddesign/IMG_6950.heic" class="lazyload" type="image/heic">
+                                    <img data-src="images/standard-image-format/creationanddesign/IMG_6950.jpg" class="lazyload" alt="Region Signs Custom Creative and Design">
+                                </picture>
+                            </div>
+                        </div>
                     </div>
+                    <!-- <div class="col-md-8">
+                        <img data-src="images/services/design.webp" class="lazyload" alt="Region Signs graphic design and printing.">
+                    </div> -->
                 </div>
                 <hr>
                 <div class="row py-5 service">

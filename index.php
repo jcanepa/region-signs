@@ -814,6 +814,9 @@
                                 </p>
                             </div>
                             <div class="card-footer">
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf0KPnrlz5DmT9mfa-o87mG5P6pepizq6zeTyubsRY18KwQKQ/viewform" class="btn btn-primary">
+                                    Get a Quote
+                                </a>
                                 <a href="tel:1-219-473-1616" class="btn btn-primary">
                                     Call
                                 </a>

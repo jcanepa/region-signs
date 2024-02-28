@@ -335,25 +335,25 @@
                         <div class="row image-grid">
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <source data-srcset="images/services/lettering/mittal.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/lettering/mittal.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                    <!-- <source data-srcset="images/services/lettering/mittal.webp" class="lazyload" type="image/webp"> -->
+                                    <img data-src="images/services/lettering/master-fire.jpg" class="lazyload" alt="Region Signs Custom Lettering">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <source data-srcset="images/services/lettering/coffee.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/lettering/coffee.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                    <!-- <source data-srcset="images/services/lettering/argg.jpg" class="lazyload"> -->
+                                    <img data-src="images/services/lettering/argg.jpg" class="lazyload" alt="Region Signs Custom Lettering">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <img data-src="images/standard-image-format/services/lettering/training.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                    <img data-src="images/services/lettering/senior-center.jpg" class="lazyload" alt="Region Signs Custom Lettering">
                                 </picture>
                             </div>
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <source data-srcset="images/services/lettering/police.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/lettering/police.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                    <!-- <source data-srcset="images/services/lettering/police.webp" class="lazyload" type="image/webp"> -->
+                                    <img data-src="images/services/lettering/wild-fries.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
                                 </picture>
                             </div>
                         </div>
@@ -531,16 +531,16 @@
                     <div class="col-md-8">
                         <div class="row image-grid">
                             <div class="col-6">
-                                <img data-src="images/services/installation/window.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                <img data-src="images/services/installation/cliffs.jpg" class="lazyload" alt="Region Signs Installation">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/installation/brick.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                <img data-src="images/services/installation/brick.webp" class="lazyload" alt="Region Signs Installation">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/installation/church.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                <img data-src="images/services/installation/pharmacy.jpg" class="lazyload" alt="Region Signs Installation">
                             </div>
                             <div class="col-6">
-                                <img data-src="images/services/installation/unilever.webp" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                <img data-src="images/services/installation/building.jpg" class="lazyload" alt="Region Signs Installation">
                             </div>
                         </div>
                     </div>

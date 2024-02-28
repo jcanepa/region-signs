@@ -222,8 +222,8 @@
                         <div class="row image-grid">
                             <div class="col-6">
                                 <picture class="w-100">
-                                    <source data-srcset="images/services/signs/sheridan.webp" class="lazyload" type="image/webp">
-                                    <img data-src="images/standard-image-format/services/signs/sheridan.jpg" class="lazyload" alt="Region Signs Custom Vehicle Lettering">
+                                    <!-- <source data-srcset="images/services/signs/sheridan.webp" class="lazyload" type="image/webp"> -->
+                                    <img data-src="images/services/signs/buzzin-bbq.jpg" class="lazyload" alt="Region Signs Custom">
                                 </picture>
                             </div>
                             <div class="col-6">

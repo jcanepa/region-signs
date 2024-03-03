@@ -21,82 +21,82 @@
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/blue-glass-windows.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/blue-glass-windows.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/caesars-eats.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/caesars-eats.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/centier-bank.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/centier-bank.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/cliffs-internal-logistics.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/cliffs-internal-logistics.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/cliffs.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/cliffs.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/danger-signs.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/danger-signs.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/fwd.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/fwd.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/hammond-enterprise-center.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/hammond-enterprise-center.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/horseshoe-casino-hotel.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/horseshoe-casino-hotel.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/horseshoe.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/horseshoe.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/our-lady-of-nazareth.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/our-lady-of-nazareth.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/pierogi-fest.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/pierogi-fest.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/region-signs-sweater.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/region-signs-sweater.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/sinter-plant-safety.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/sinter-plant-safety.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/tolleston-park.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/tolleston-park.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/tom-smolen-park.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/tom-smolen-park.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">

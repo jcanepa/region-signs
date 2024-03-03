@@ -16,7 +16,7 @@
                 <div class="row photo-gallery gallery-1">
                     <div class="col-md-4">
                         <div class="card mb-4 shadow-sm">
-                            <img data-src="images/gallery/new-images/attention.jpg" class="lazyload" alt="Instalation of custom signage">
+                            <img data-src="/images/gallery/new-images/attention.jpg" class="lazyload" alt="Instalation of custom signage">
                         </div>
                     </div>
                     <div class="col-md-4">
